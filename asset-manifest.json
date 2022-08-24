@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.b51bfcdc.css",
-    "main.js": "./static/js/main.12f6c201.js",
+    "main.js": "./static/js/main.7efd40ee.js",
     "static/css/281.7b55c43d.chunk.css": "./static/css/281.7b55c43d.chunk.css",
     "static/js/281.15f13c27.chunk.js": "./static/js/281.15f13c27.chunk.js",
     "static/css/378.46d4c235.chunk.css": "./static/css/378.46d4c235.chunk.css",
@@ -23,7 +23,6 @@
     "static/media/Pentest+.jpg": "./static/media/Pentest+.3ba226450b39d78d796a.jpg",
     "static/media/Web Fundamentals.jpg": "./static/media/Web Fundamentals.54b0e15a36b687c975ca.jpg",
     "static/media/Pre-security.jpg": "./static/media/Pre-security.b5871429429b6456c6f3.jpg",
-    "static/media/spinner.gif": "./static/media/spinner.d3c6e8e616236ce5e214.gif",
     "static/media/html.png": "./static/media/html.44fa716713f6120582bc.png",
     "static/media/css.png": "./static/media/css.fa4908bdfb320412ec19.png",
     "static/media/js.png": "./static/media/js.717e6ed9041608a24932.png",
@@ -31,7 +30,7 @@
     "static/media/react.png": "./static/media/react.cba987f2097fcdee104b.png",
     "index.html": "./index.html",
     "main.b51bfcdc.css.map": "./static/css/main.b51bfcdc.css.map",
-    "main.12f6c201.js.map": "./static/js/main.12f6c201.js.map",
+    "main.7efd40ee.js.map": "./static/js/main.7efd40ee.js.map",
     "281.7b55c43d.chunk.css.map": "./static/css/281.7b55c43d.chunk.css.map",
     "281.15f13c27.chunk.js.map": "./static/js/281.15f13c27.chunk.js.map",
     "378.46d4c235.chunk.css.map": "./static/css/378.46d4c235.chunk.css.map",
@@ -42,6 +41,6 @@
   },
   "entrypoints": [
     "static/css/main.b51bfcdc.css",
-    "static/js/main.12f6c201.js"
+    "static/js/main.7efd40ee.js"
   ]
 }
